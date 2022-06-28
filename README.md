@@ -1,3 +1,2 @@
-# 22-04-29 first commit
-
-I'm ready for handing in EX with node.
+Aiffel 강남4기  
+22. 4. 12 ~ 22. 9. 28
